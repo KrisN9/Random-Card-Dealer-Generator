@@ -5,21 +5,23 @@
   margin: auto;
   height: 400px;
   width: 250px;
-  padding: 20px;
+  padding: 10px;
   border: 1px solid black;
   border-radius: 5px;
   position: relative;
 }
 .card-symbol-top {
   position: absolute;
-  top: 20px;
-  left: 20px;
+  top: 10px;
+  left: 10px;
+  font-size: 70px;
 }
 .card-number {
   text-align: center;
 }
 .card-symbol-bottom {
   position: absolute;
-  bottom: 20px;
-  right: 20px;
+  bottom: 10px;
+  right: 10px;
+  font-size: 70px;
 }
